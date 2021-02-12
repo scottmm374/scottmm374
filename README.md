@@ -8,7 +8,10 @@
 
 Welcome to my Github page! I am Michelle and I have completed Full Stack Web Development at Lambda School. 
 
-<!--<img align="right" alt="img" src="https://github.com/scottmm374/scottmm374/blob/master/cover_image.jpg" width="50%" height="auto" />
+[![Michelle's GitHub stats](https://github-readme-stats.vercel.app/api?username=scottmm374&theme=onedark&show_icons=true&include_all_commits=true&count_private=true&hide=stars)](https://github.com/scottmm374/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=scottmm374&layout=compact)](https://github.com/scottmm374/github-readme-stats)
+
+
 
 
 #### 🌱 Things I am currently working on: 
