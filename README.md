@@ -10,7 +10,6 @@ Welcome to my Github page! I am Michelle and I have completed Full Stack Web Dev
 
 [![Michelle's GitHub stats](https://github-readme-stats.vercel.app/api?username=scottmm374&theme=onedark&show_icons=true&include_all_commits=true&count_private=true&hide=stars)](https://github.com/scottmm374/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=scottmm374&hide=go)](https://github.com/scottmm374/github-readme-stats)
 
 
 
