@@ -27,10 +27,14 @@ Welcome to my Github page! I am Michelle, I am a full stack web developer.
 
 
 #### :computer: Programming languages and tools: 
-<p>
+- Html, CSS
+- Javascript
+- Node.js
+- Python (My current Favorite language)
+
 	
 
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
+
 
 
 
