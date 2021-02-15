@@ -16,8 +16,8 @@ Welcome to my Github page! I am Michelle, I am a full stack web developer.
 
 #### 🌱 Things I am currently working on: 
 - Reviewing React, Redux, Testing(Jest, Cypress)
-- Visual Tutorials on common data structures, algorithms, and traversals for beginer/intermediate
-- 
+- Visual Tutorials on common data structures, algorithms, and traversals for beginner/intermediate
+
 
 #### Things I am challenging myself with:
 - Learning Cypress for testing
