@@ -8,9 +8,9 @@
 
 Welcome to my Github page! I am Michelle, I am a full stack web developer. 
 
-[![Michelle's GitHub stats](https://github-readme-stats.vercel.app/api?username=scottmm374&theme=onedark&show_icons=true&include_all_commits=true&count_private=true&hide=stars)](https://github.com/scottmm374/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=scottmm374&theme=onedark&hide=go&exclude_repo=github-readme-stats,atozexp,Mscott-lectures,Practice-refresher,web-module-project-intro-css,Sprint-Challenge--User-Interface,User-Interface,UI-III-Flexbox,made-with-flexbox,DOM-One,vscode-debug-visualizer,web-module-project-intro-css,michelle-scott-portfolio,portfolio-website,Sprint-Challenge--Advanced-CSS,scottmm374.github.io,responsive-web-design-I)](https://github.com/scottmm374/github-readme-stats)
+
+[![Michelle's GitHub stats](https://github-readme-stats.vercel.app/api?username=scottmm374&theme=onedark&show_icons=true&include_all_commits=true&count_private=true&hide=stars)](https://github.com/scottmm374/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=scottmm374&theme=onedark&hide=go&exclude_repo=github-readme-stats,atozexp,Mscott-lectures,Practice-refresher,web-module-project-intro-css,Sprint-Challenge--User-Interface,User-Interface,UI-III-Flexbox,made-with-flexbox,DOM-One,vscode-debug-visualizer,web-module-project-intro-css,michelle-scott-portfolio,portfolio-website,Sprint-Challenge--Advanced-CSS,scottmm374.github.io,responsive-web-design-I)](https://github.com/scottmm374/github-readme-stats)
 
 
 
