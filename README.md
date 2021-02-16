@@ -33,7 +33,9 @@
 - Python (My current Favorite language)
 
 	
+## Featured Projects:
 
+![Save this Job](images/kanban.gif)
 
 
 
