@@ -35,18 +35,20 @@
 
 
 
-## Featured Projects:
--------
+# Featured Projects:
 
+## Save this Job  
 
-### Save this Job -  Chrome Extension and Web app. 
-
-     
+----------
+  [Front-End-Repo](https://github.com/scottmm374/job-book-fe)|
+  [Back-End-Repo](https://github.com/scottmm374/job-book-be)| 
+  [Extention-Repo](https://github.com/scottmm374/job-book-chrome-ext)|
+  [Visit-Save-this-Job]("https://savethisjob.com")  
 
 
 ![Save this Job](/images/save_this_job.png)
 
-Kanban personal Dashboard
+#### Kanban personal Dashboard
 ![Save this Job](/images/kaban.gif)
 
 
@@ -54,6 +56,9 @@ Kanban personal Dashboard
 ---------------
 
 ## Conway's Game of Life:
+
+[Game-Of-Life-Repo](https://github.com/scottmm374/game-of-life)|
+[Visit_GameOfLife](game-of-life-three-plum.vercel.app)
 
 ![Game of Life](images/demo.gif)
 
