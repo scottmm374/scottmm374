@@ -43,7 +43,9 @@
   [Front-End-Repo](https://github.com/scottmm374/job-book-fe)|
   [Back-End-Repo](https://github.com/scottmm374/job-book-be)| 
   [Extention-Repo](https://github.com/scottmm374/job-book-chrome-ext)|
+
   [Save this Job](https://savethisjob.com)  
+
 
 
 ![Save this Job](/images/save_this_job.png)
@@ -58,7 +60,9 @@
 ## Conway's Game of Life:
 
 [Game-Of-Life-Repo](https://github.com/scottmm374/game-of-life)|
+
 [Play Game of Life](https://game-of-life.scottmm374.vercel.app)
+
 
 ![Game of Life](images/demo.gif)
 
