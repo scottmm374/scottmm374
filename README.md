@@ -32,23 +32,32 @@
 - Node.js
 - Python (My current Favorite language)
 
-	
+
+
+
 ## Featured Projects:
-
-![Save this Job](images/kanban.gif)
-
+-------
 
 
+### Save this Job -  Chrome Extension and Web app. 
 
-<!-- Here are some ideas to get you started:
+     
 
-<!--- 🔭 I’m currently working on ...
-<!--<!--<!--<!--<!--<!--<!--- 🌱 I’m currently learning ...
-<!--<!--<!--<!--<!--<!--- 👯 I’m looking to collaborate on ...
-<!--<!--<!--<!--<!--- 🤔 I’m looking for help with ...
-<!--<!--<!--<!--- 💬 Ask me about ...
-<!--<!--<!--- 📫 How to reach me: ...
-<!--<!--- 😄 Pronouns: ...
-<!--- ⚡ Fun fact: ...
--->
+
+![Save this Job](/images/save_this_job.png)
+
+Kanban personal Dashboard
+![Save this Job](/images/kaban.gif)
+
+
+
+---------------
+
+## Conway's Game of Life:
+
+![Game of Life](images/demo.gif)
+
+
+
+
 
