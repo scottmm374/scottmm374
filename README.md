@@ -35,7 +35,7 @@
 	
 ## Featured Projects:
 
-![Save this Job](images/kanban.gif)
+![Save this Job](images/save_this_job.png)
 
 
 
