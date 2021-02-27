@@ -13,24 +13,16 @@
 [![Michelle's GitHub stats](https://github-readme-stats.vercel.app/api?username=scottmm374&theme=onedark&show_icons=true&include_all_commits=true&count_private=true&hide=stars)](https://github.com/scottmm374/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=scottmm374&layout=compact&theme=onedark&hide=go&exclude_repo=github-readme-stats,Mscott-lectures,Practice-refresher,vscode-debug-visualizer,scottmm374.github.io,)](https://github.com/scottmm374/github-readme-stats)
 
 
-
-#### 🌱 Things I am currently working on: 
-- Reviewing React, Redux, Testing(Jest, Cypress)
-- Visual Tutorials on common data structures, algorithms, and traversals for beginner/intermediate
-
-
-#### Things I am challenging myself with:
-- Learning Cypress for testing
-- Learning Data Structures and their uses (Python), and translating to Javascript for use in React Applications.
-- Learning algorithms, and traversals of different Data structures. 
-
-
-
 #### :computer: Programming languages and tools: 
 - Html, CSS
 - Javascript
+- React
+- Redux
+- Express
+- SQL, PostgreSQL
+- Jest
 - Node.js
-- Python (My current Favorite language)
+- Python 
 
 
 
