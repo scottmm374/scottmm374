@@ -32,9 +32,9 @@
 ## Save this Job  
 
 ----------
-  [Front-End-Repo](https://github.com/scottmm374/job-book-fe)|
-  [Back-End-Repo](https://github.com/scottmm374/job-book-be)| 
-  [Extention-Repo](https://github.com/scottmm374/job-book-chrome-ext)|
+  [Front-End-Repo](https://github.com/Lambda-School-Labs/job-book-fe)|
+  [Back-End-Repo](https://github.com/Lambda-School-Labs/job-book-be)| 
+  [Extention-Repo](https://github.com/Lambda-School-Labs/job-book-chrome-ext)|
 
   [Save this Job](https://savethisjob.com)  
 
