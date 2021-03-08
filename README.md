@@ -65,7 +65,7 @@
 
 ## Secret Family Recipes:
 
-[Repo link](https://github.com/scottmm374/Family-Recipes)
+[Repo link](https://github.com/family-recipes)
 
 [Website](https://family-recipes.now.sh/)
 
