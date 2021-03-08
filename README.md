@@ -62,14 +62,4 @@
 
 
 -----------------
-## IMRecords Immunization Tracker
 
-[Team Build Repo](https://github.com/BWPT-Immigration-Tracking/Front-End)|
-[Current Repo](https://github.com/scottmm374/Immunization-Tracker)|
-
-[Visit IMRecords](https://immunization-tracker-hu4118x0g.now.sh/)
-
-
-![IMRecords](/images/imrecords.png)
-![IMRecords](/images/parent.png)
-![IMRecords](/images/provider.png)
