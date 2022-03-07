@@ -63,10 +63,3 @@
 
 -----------------
 
-## Secret Family Recipes:
-
-[Repo link](https://github.com/family-recipes)
-
-[Website](https://family-recipes.now.sh/)
-
-![Secret Family Recipes](images/Family_recipes.png)
