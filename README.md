@@ -1,24 +1,7 @@
-<style>
-.heading_1 {
-  color: orange;
-  font-size: 80px;
-  font-family: roboto;
-}
-
-.heading_2 {
-  color: purple;
-  font-size: 35px;
-}
-.drop_down {
-  color: salmon;
-  font-size: 25px;
-
-}
 
 
-</style>
+##  Welcome to my Github page! My name is Michelle Scott! 
 
-<h1 class='heading_1'> Welcome to my Github page! My name is Michelle Scott! </h1>
 
 ### ABOUT ME
 
@@ -76,20 +59,21 @@
 
 
 
+<div>
 
 <p>
-<h2 class='heading_2'>Favorite Programming Languages</h2>
-<table>
+<h2 align='center'>Favorite Programming Languages</h2>
+<table width='100%' align='center'>
 <tr>
 <td><img src='images/icons/javascript.svg' width=120></td>
 <td><img src='images/icons/python.svg' width=120></td>
 <td><img src='images/icons/react.svg' width=120></td>
-
 </tr>
+
 </table>
 <br>
-<h2 class='heading_2'>Other Techie Tools</h2>
-<table>
+ <h2 align='center'>Other Techie Tools</h2>
+<table width='100%' align='center'>
 <tr>
 <td><img src='images/icons/html.svg' width=90></td>
 <td><img src='images/icons/download.svg' width=90></td>
@@ -101,8 +85,8 @@
 </table>
 
 <br>
-<h2 class='heading_2'>Find me on</h2>
-<table>
+<h2 align='center'>Find me on</h2>
+<table width='100%' align='center'>
 <tr>
 <td><img src='images/icons/discord.svg' width=90></td>
 <td><img src='images/icons/edx.svg' width=90></td>
@@ -113,5 +97,5 @@
 </tr>
 </table>
 </p>
-
+</div>
 
