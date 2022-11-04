@@ -1,33 +1,43 @@
 
 
 ##  Welcome to my Github page! My name is Michelle Scott! 
-
-
-### ABOUT ME
+<br>
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/scottmm374)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/scottmm374/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:scottmm374@gmail.com)
 
- 
+ <br>
+ <br>
 
+
+
+[![Michelle's GitHub stats](https://github-readme-stats.vercel.app/api?username=scottmm374&theme=dracula&show_icons=true&include_all_commits=true&count_private=true&hide=stars,contribs,issues)](https://github.com/scottmm374/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=scottmm374&layout=compact&theme=dracula&hide=go,html,css&exclude_repo=github-readme-stats,Mscott-lectures,Practice-refresher,vscode-debug-visualizer,scottmm374.github.io,)](https://github.com/scottmm374/github-readme-stats)
+
+<br>
+<br>
+
+# Certifications | Courses
 <details>
-<summary class='drop_down'> CERTIFICATIONS, LEARNING </summary><br>
+<summary>Linkedin</summary>
+<br>
 
-![Google Coursera](images/git_github_google.png)
 ![Python OOP](images/Python_OOP.png)
 ![Relational Databases](images/Relational_databases_Certification.png)
 ![SQL](images/SQL.png)
 </details>
 
-[![Michelle's GitHub stats](https://github-readme-stats.vercel.app/api?username=scottmm374&theme=onedark&show_icons=true&include_all_commits=true&count_private=true&hide=stars)](https://github.com/scottmm374/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=scottmm374&layout=compact&theme=onedark&hide=go&exclude_repo=github-readme-stats,Mscott-lectures,Practice-refresher,vscode-debug-visualizer,scottmm374.github.io,)](https://github.com/scottmm374/github-readme-stats)
+<details>
+<summary>Google</summary>
+![Google Coursera](images/git_github_google.png)
+</details>
 
-[MUFI](https://torpid-anise-217.notion.site/MUFI-a1db36f1b6374be083e8c08a3fa9cd27)
+
+<br>
+<br>
 
 
-
-
-# Featured Projects:
+# Featured Projects
 <details>
 <summary class='drop_down'>Save this Job</summary>  
 
@@ -43,6 +53,12 @@
 #### Kanban
 ![Save this Job](/scottmm374/images/kaban.gif)
 
+
+</details>
+
+<details>
+<summary>MUFI</summary>
+[MUFI](https://torpid-anise-217.notion.site/MUFI-a1db36f1b6374be083e8c08a3fa9cd27)
 
 </details>
 
