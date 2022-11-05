@@ -1,6 +1,9 @@
 
 
 ##  Welcome to my Github page! My name is Michelle Scott! 
+![Artwork by Michelle Scott](images/doodle_flowers.png)
+
+<!-- ![Visitors](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F{scottmm374}1212%2Fhit-counter) -->
 <br>
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/scottmm374)
@@ -12,12 +15,15 @@
 
 
 
+
 [![Michelle's GitHub stats](https://github-readme-stats.vercel.app/api?username=scottmm374&theme=dracula&show_icons=true&include_all_commits=true&count_private=true&hide=stars,contribs,issues)](https://github.com/scottmm374/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=scottmm374&layout=compact&theme=dracula&hide=go,html,css&exclude_repo=github-readme-stats,Mscott-lectures,Practice-refresher,vscode-debug-visualizer,scottmm374.github.io,)](https://github.com/scottmm374/github-readme-stats)
 
 <br>
 <br>
 
 # Certifications | Courses
+<img src='https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white' />
+<img src='https://img.shields.io/badge/LAMBDA-2021-logoColor="red"' />
 <details>
 <summary>Linkedin</summary>
 <br>
