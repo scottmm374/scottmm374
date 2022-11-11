@@ -1,12 +1,17 @@
 
-### Hi there :raising_hand_woman: 
 ### Welcome to my Github page! I am Michelle Scott! :cherry_blossom:
+
+
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/scottmm374)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/scottmm374/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:scottmm374@gmail.com)
 
  
+
+
+https://user-images.githubusercontent.com/45644361/201411461-15d02fe8-b6b8-4e3f-bec7-75ff4735fc70.mov
+
 
 
 
