@@ -3,6 +3,10 @@
 # Hi there! I'm Michelle Scott
 <br>
 
+![Jokes Card](https://readme-jokes.vercel.app/api)
+
+<br>
+
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/scottmm374)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/scottmm374/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:scottmm374@gmail.com)
