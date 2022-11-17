@@ -77,6 +77,9 @@ Web scraper and directory/file generator to save previously released Advent of C
 <td><img src='images/icons/npm.svg' width=90></td>
 </tr>
 </table>
+<br>
+
+[![Visitors](https://api.visitorbadge.io/api/visitors?path=scottmm374&label=Visitors&labelColor=%232ccce4&countColor=%23dce775&style=plastic&labelStyle=upper)](https://visitorbadge.io/status?path=scottmm374)
 
 
 
