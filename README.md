@@ -21,15 +21,39 @@
 
 <br>
 
-## Current courses-learning
+## Current courses and learning
+<br>
+  <p>My primary reason for doing these courses is to not only to get a deeper knowledge of a specific concept or language, but also discover where I have knowledge gaps.</p>
+<p>When I come across something fun that I have just learned or discover a gap in knowledge, I tend to go and build something with it.</p>
+<p> This is why not every assignment or section may be completed. </p>
+<br>
+<br>
 <details><summary>Frontend Masters</summary>
  <br>
- 
 [My Profile Frontend Masters](https://frontendmasters.com/u/scottmm374/)
 <img width="1375" alt="Screenshot 2022-11-21 at 11 46 47 AM" src="https://user-images.githubusercontent.com/45644361/203112622-804dca4c-d70e-4eed-8bde-aa46106edd6d.png">
 <img width="1219" alt="Screenshot 2022-11-21 at 11 47 08 AM" src="https://user-images.githubusercontent.com/45644361/203112654-72c35b2f-acbf-4943-8b17-1c8179a2d37f.png">
 <img width="1224" alt="Screenshot 2022-11-21 at 11 47 21 AM" src="https://user-images.githubusercontent.com/45644361/203112686-6aab7139-2003-43dc-b6ba-5f95fb5859b7.png">
 </details>
+
+<details><summary>CS50</summary>
+ <br>
+ <div>
+ <h2>CS50P Python</h2>
+<img width="520" alt="Screenshot 2022-11-21 at 12 09 37 PM" src="https://user-images.githubusercontent.com/45644361/203118779-99817fc4-104e-447d-badc-36718527f734.png">
+ </div>
+ <div>
+  <h2>CS50X Computer Science</h2>
+
+ <img width="421" alt="Screenshot 2022-11-21 at 12 12 18 PM" src="https://user-images.githubusercontent.com/45644361/203118904-fda21fce-18ca-4e4d-99d9-83d5abf874c1.png">
+
+ </details>
+ <details>
+  <summary>Codesmith.io (free courses)</summary>
+  <br>
+  <img width="644" alt="Screenshot 2022-11-21 at 12 14 04 PM" src="https://user-images.githubusercontent.com/45644361/203122856-9aaad077-534d-4bc3-afa6-8f9bf2f4f0e3.png">
+
+ </details>
 
 
 # Latest Project
