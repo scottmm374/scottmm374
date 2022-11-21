@@ -23,6 +23,11 @@
 
 ## Current courses-learning
 [Frontend Masters](https://frontendmasters.com/u/scottmm374/)
+<img width="1375" alt="Screenshot 2022-11-21 at 11 46 47 AM" src="https://user-images.githubusercontent.com/45644361/203112622-804dca4c-d70e-4eed-8bde-aa46106edd6d.png">
+<img width="1219" alt="Screenshot 2022-11-21 at 11 47 08 AM" src="https://user-images.githubusercontent.com/45644361/203112654-72c35b2f-acbf-4943-8b17-1c8179a2d37f.png">
+<img width="1224" alt="Screenshot 2022-11-21 at 11 47 21 AM" src="https://user-images.githubusercontent.com/45644361/203112686-6aab7139-2003-43dc-b6ba-5f95fb5859b7.png">
+
+
 
 # Latest Project
 
