@@ -21,6 +21,9 @@
 
 <br>
 
+## Current courses-learning
+[Frontend Masters](https://frontendmasters.com/u/scottmm374/)
+
 # Latest Project
 
 [Advent_puzzles_scraper Repo](https://github.com/scottmm374/Advent_puzzles_scraper)
