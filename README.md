@@ -26,16 +26,15 @@ I never got around to doing it.. (yet), but this gives a little insight into how
 <br>
 
 ## Additional Courses and Learning  
-<br>
-  <p>My primary reason for doing these courses is to not only to get a deeper knowledge of a specific concept or language, but also discover where I have knowledge gaps.</p>
+<p>My primary reason for doing these courses is to not only get a deeper knowledge of a specific concept or language, but also discover where I have knowledge gaps.</p>
 <p>When I come across something fun that I have just learned or discover a gap in knowledge, I tend to go and build something with it.</p>
 <p> This is why not every assignment or section may be completed. </p>
 <br>
-<br>
 <details><summary>Frontend Masters</summary>
- <br>
+<br>
  
 [My Profile Frontend Masters](https://frontendmasters.com/u/scottmm374/)
+ 
 <br>
  
 <img width="1375" alt="Screenshot 2022-11-21 at 11 46 47 AM" src="https://user-images.githubusercontent.com/45644361/203112622-804dca4c-d70e-4eed-8bde-aa46106edd6d.png">
