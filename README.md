@@ -13,10 +13,7 @@
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/scottmm374/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:scottmm374@gmail.com)
 <br>
-<!-- #### If your viewing from a mobile device, you are missing out on my awesome video below:)
-Created in procreate on Ipad. 
-This idea has gone though a few revisions. Making a profile webpage for myself has been a difficult task, not for lack of ideas, but too many. So I had a thought to just create a profile website that visitors could watch me build. 
-I never got around to doing it.. (yet), but this gives a little insight into how my mind works sometimes :) -->
+
  <br>
  <video src='https://user-images.githubusercontent.com/45644361/201426613-06a30125-bc68-409c-bd70-697d2472d0ab.mp4'></video>
  <br>
