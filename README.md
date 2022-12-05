@@ -14,9 +14,18 @@
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:scottmm374@gmail.com)
 <br>
 
- <br>
+### ADVENT of CODE 2022 progress
+
+[Visit Advent of Code](https://adventofcode.com)
+<br>
+
+<img width="718" alt="Screenshot 2022-12-05 at 1 02 57 PM" src="https://user-images.githubusercontent.com/45644361/205711437-571c4f35-247e-4c69-821f-56a0d00cd33f.png">
+
+<br>
+
+<!--  <br>
  <video src='https://user-images.githubusercontent.com/45644361/201426613-06a30125-bc68-409c-bd70-697d2472d0ab.mp4'></video>
- <br>
+ <br> -->
  
 [![Michelle's GitHub stats](https://github-readme-stats.vercel.app/api?username=scottmm374&theme=dracula&show_icons=true&include_all_commits=true&count_private=true&hide=stars,contribs,issues)](https://github.com/scottmm374/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=scottmm374&layout=compact&theme=dracula&hide=go,html,css&exclude_repo=github-readme-stats,Mscott-lectures,Practice-refresher,vscode-debug-visualizer,scottmm374.github.io,)](https://github.com/scottmm374/github-readme-stats)
 
