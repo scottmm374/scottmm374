@@ -14,13 +14,13 @@
 
 <br>
 
- <br>
+<!--  <br>
  <video src='https://user-images.githubusercontent.com/45644361/201426613-06a30125-bc68-409c-bd70-697d2472d0ab.mp4'></video>
  <br> 
  
 [![Michelle's GitHub stats](https://github-readme-stats.vercel.app/api?username=scottmm374&theme=dracula&show_icons=true&include_all_commits=true&count_private=true)](https://github.com/scottmm374/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=scottmm374&layout=compact&theme=dracula&exclude_repo=github-readme-stats,Mscott-lectures,Practice-refresher,vscode-debug-visualizer,scottmm374.github.io,)](https://github.com/scottmm374/github-readme-stats)
 
-<br>
+<br> -->
 
 ## Additional Courses and Learning  
 <p>My primary reason for doing these courses is to not only get a deeper knowledge of a specific concept or language, but also discover where I have knowledge gaps.</p>
