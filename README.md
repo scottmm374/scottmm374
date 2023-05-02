@@ -3,6 +3,7 @@
 # Hi there! I'm Michelle Scott
 <br>
 
+<img src="https://tryhackme-badges.s3.amazonaws.com/scottmm374.png" alt="TryHackMe">
 
 <br>
 
@@ -22,24 +23,41 @@
 
 <br> -->
 
-## Additional Courses and Learning  
-<p>My primary reason for doing these courses is to not only get a deeper knowledge of a specific concept or language, but also discover where I have knowledge gaps.</p>
-<p>When I come across something fun that I have just learned or discover a gap in knowledge, I tend to go and build something with it.</p>
-<p> This is why not every assignment or section may be completed. </p>
+### Tryhackme 
+
+My progress so far since April 10, 2023
+
+<img width="1241" alt="Screenshot 2023-05-02 at 4 43 53 PM" src="https://user-images.githubusercontent.com/45644361/235781889-75b02f04-ede5-4d52-9ab2-fcd4dc3cb5c9.png">
+
+Visit my profile on ![Tryhackme](https://tryhackme.com/p/scottmm374)
+
+||||
+|---------------|---------------|-------------|
+|<img width="508" alt="Screenshot 2023-05-02 at 4 18 26 PM" src="https://user-images.githubusercontent.com/45644361/235777360-15f4abec-4e2e-404a-836d-ed6669de9c77.png">|<img width="517" alt="Screenshot 2023-05-02 at 4 16 51 PM" src="https://user-images.githubusercontent.com/45644361/235777482-757b7b68-a82a-4e44-a895-fdee195fbaf3.png">|<img width="505" alt="Screenshot 2023-05-02 at 4 17 38 PM" src="https://user-images.githubusercontent.com/45644361/235777501-237f49f2-4601-4d46-9cf1-f419db5fed8e.png">|
+|<img width="508" alt="Screenshot 2023-05-02 at 4 17 22 PM" src="https://user-images.githubusercontent.com/45644361/235777537-df5cae59-b166-4f96-a24e-7b17ac27d014.png">|<img width="508" alt="Screenshot 2023-05-02 at 4 17 06 PM" src="https://user-images.githubusercontent.com/45644361/235777555-b559da8c-9587-463f-b58b-53a2945a45f8.png">|<img width="504" alt="Screenshot 2023-05-02 at 4 17 59 PM" src="https://user-images.githubusercontent.com/45644361/235777589-c2ec2d98-4daf-4503-9353-edbd624aacf8.png">|
+
+
+
+|||
+|---|---|
+|![THM-OFEJKQNKXW](https://user-images.githubusercontent.com/45644361/235778813-c81c9663-07f1-4c75-a1ab-d1c0a35f4d59.png)|![THM-BIWN1GFE8R](https://user-images.githubusercontent.com/45644361/235778846-e9abd5e5-9fc5-45b6-8cec-336691d6e7ec.png)|
+
 <br>
-<details><summary>Frontend Masters</summary>
+### Frontend Masters
 <br>
  
 [My Profile Frontend Masters](https://frontendmasters.com/u/scottmm374/)
  
 <br>
  
-<img width="1375" alt="Screenshot 2022-11-21 at 11 46 47 AM" src="https://user-images.githubusercontent.com/45644361/203112622-804dca4c-d70e-4eed-8bde-aa46106edd6d.png">
-<img width="1219" alt="Screenshot 2022-11-21 at 11 47 08 AM" src="https://user-images.githubusercontent.com/45644361/203112654-72c35b2f-acbf-4943-8b17-1c8179a2d37f.png">
-<img width="1224" alt="Screenshot 2022-11-21 at 11 47 21 AM" src="https://user-images.githubusercontent.com/45644361/203112686-6aab7139-2003-43dc-b6ba-5f95fb5859b7.png">
-</details>
+<img width="1220" alt="Screenshot 2023-05-02 at 4 49 00 PM" src="https://user-images.githubusercontent.com/45644361/235782842-4c83b525-11a0-4dbe-ab4a-625e751d04db.png">
 
-<details><summary>CS50</summary>
+<img width="1168" alt="Screenshot 2023-05-02 at 4 49 15 PM" src="https://user-images.githubusercontent.com/45644361/235782894-01eecb3f-3e56-4d19-a055-3d33be78302a.png">
+
+<img width="1171" alt="Screenshot 2023-05-02 at 4 49 32 PM" src="https://user-images.githubusercontent.com/45644361/235782935-25ad4729-cdb1-4575-9328-8e7877dad5a0.png">
+
+
+### CS50
  <br>
  <div>
  <h2>CS50P Python</h2><br>
@@ -50,16 +68,15 @@
 
  <img width="421" alt="Screenshot 2022-11-21 at 12 12 18 PM" src="https://user-images.githubusercontent.com/45644361/203118904-fda21fce-18ca-4e4d-99d9-83d5abf874c1.png">
 
- </details>
- <details>
-  <summary>Codesmith.io (free courses)</summary>
+ 
+ ### Codesmith.io
   <br>
   <img width="644" alt="Screenshot 2022-11-21 at 12 14 04 PM" src="https://user-images.githubusercontent.com/45644361/203122856-9aaad077-534d-4bc3-afa6-8f9bf2f4f0e3.png">
 
- </details>
+
 <br>
 
-# Latest Project I am working on
+# Some projects I have done
 
 [Advent_puzzles_scraper Repo](https://github.com/scottmm374/Advent_puzzles_scraper)
 
