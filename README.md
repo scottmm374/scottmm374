@@ -5,6 +5,8 @@
 
 <img src="https://tryhackme-badges.s3.amazonaws.com/scottmm374.png" alt="TryHackMe">
 
+<!-- <img src="https://tryhackme-badges.s3.amazonaws.com/scottmm374.png" alt="TryHackMe"> -->
+
 <br>
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/scottmm374)
