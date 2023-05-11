@@ -26,8 +26,9 @@
 ### Tryhackme 
 
 My progress so far since April 10, 2023
+<img width="1371" alt="Screenshot 2023-05-11 at 9 15 26 AM" src="https://github.com/scottmm374/scottmm374/assets/45644361/d6c01da2-ce77-4aeb-b6d2-5384109ee75c">
 
-<img width="1241" alt="Screenshot 2023-05-02 at 4 43 53 PM" src="https://user-images.githubusercontent.com/45644361/235781889-75b02f04-ede5-4d52-9ab2-fcd4dc3cb5c9.png">
+<!-- <img width="1241" alt="Screenshot 2023-05-02 at 4 43 53 PM" src="https://user-images.githubusercontent.com/45644361/235781889-75b02f04-ede5-4d52-9ab2-fcd4dc3cb5c9.png"> -->
 
 Visit my profile on ![Tryhackme](https://tryhackme.com/p/scottmm374)
 
