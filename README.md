@@ -30,8 +30,11 @@
 Visit my profile on ![Tryhackme](https://tryhackme.com/p/scottmm374)
 
 <img width="1354" alt="Screenshot 2023-05-31 at 7 55 49 AM" src="https://github.com/scottmm374/scottmm374/assets/45644361/435d55fc-c9c8-4f63-80c1-e0c1e25fb81e">
+<img width="543" alt="Screenshot 2023-05-31 at 7 56 12 AM" src="https://github.com/scottmm374/scottmm374/assets/45644361/60348713-d11a-4c7b-8c09-dc39132544d3">
+
+#### Current Badges Earned
 <img width="1214" alt="Screenshot 2023-05-31 at 7 55 08 AM" src="https://github.com/scottmm374/scottmm374/assets/45644361/bd4106a0-b82d-44de-a02f-8a76a7a02a6c">
-<img width="1214" alt="Screenshot 2023-05-31 at 7 55 08 AM" src="https://github.com/scottmm374/scottmm374/assets/45644361/7761afd3-6ad4-42b4-b0cb-5796bf378aa0">
+
 
 <br>
 ### Frontend Masters
